@@ -1,5 +1,8 @@
-Built-In Modules
-    OS
+Built-In Modules -> Refer Document to get more deatils about the Module's Methods & Properties
+    OS - Operating System
     PATH
-    FS
-    HTTP
+    FS - File System
+    HTTP - Hyper Text Transfer Protocol
+For Built-in modules we can directly import and we can use. Eg: OS, HTTP, FS
+For External modules we should and install then use it by importing. Eg: Express, dotenv
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
